@@ -1,0 +1,5 @@
+---
+applications:
+  - name: business-service
+    env:
+      GO15VENDOREXPERIMENT: 0
